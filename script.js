@@ -33,6 +33,7 @@ function randomJson() {
 
         image.addEventListener('click', function() {
             location.reload(); // Reload the page when the image is clicked
+            document.body.style.backgroundColor = "red";
         });
 
         
