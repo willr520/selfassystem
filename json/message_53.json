@@ -1,0 +1,34 @@
+{
+  "participants": [
+    {
+      "name": "khaled"
+    },
+    {
+      "name": "Nat"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "khaled",
+      "timestamp_ms": 1690922567534,
+      "content": "you hot"
+    },
+    {
+      "sender_name": "khaled",
+      "timestamp_ms": 1690922562756,
+      "content": "Hello"
+    },
+    {
+      "sender_name": "khaled",
+      "timestamp_ms": 1644133168953,
+      "content": "Hello"
+    }
+  ],
+  "title": "khaled",
+  "is_still_participant": true,
+  "thread_path": "message_requests/khaled_767888501280652",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

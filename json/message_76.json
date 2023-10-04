@@ -1,0 +1,24 @@
+{
+  "participants": [
+    {
+      "name": "Phillip Taylor"
+    },
+    {
+      "name": "Nat"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Phillip Taylor",
+      "timestamp_ms": 1684200772608,
+      "content": "Hello sweetie \u00f0\u009f\u00a5\u00b0how are you doing today? I'm Philip . Hope you are good and nice meeting you... I came across your ig on Tinder dating apps so I decided to add you on ig if you don\u00e2\u0080\u0099t mind being my sugar babe with a weekly allowance of $1000"
+    }
+  ],
+  "title": "Phillip Taylor",
+  "is_still_participant": true,
+  "thread_path": "message_requests/philliptaylor_1103132384422927",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

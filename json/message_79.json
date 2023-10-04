@@ -1,0 +1,24 @@
+{
+  "participants": [
+    {
+      "name": "Ralph Schelling"
+    },
+    {
+      "name": "Nat"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Ralph Schelling",
+      "timestamp_ms": 1665054341068,
+      "content": "Hry Nthan, i saw u on the gr. App youre so cute . Lets meet I\u00e2\u0080\u0099m in ny"
+    }
+  ],
+  "title": "Ralph Schelling",
+  "is_still_participant": true,
+  "thread_path": "message_requests/ralphschelling_942801947122639",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

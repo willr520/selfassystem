@@ -1,0 +1,24 @@
+{
+  "participants": [
+    {
+      "name": "Robert Grunnah"
+    },
+    {
+      "name": "Nat"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Robert Grunnah",
+      "timestamp_ms": 1652318568389,
+      "content": "Hey Nathan!"
+    }
+  ],
+  "title": "Robert Grunnah",
+  "is_still_participant": true,
+  "thread_path": "message_requests/robertgrunnah_832942914775210",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

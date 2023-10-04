@@ -1,0 +1,24 @@
+{
+  "participants": [
+    {
+      "name": "__cyclone"
+    },
+    {
+      "name": "Nat"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "__cyclone",
+      "timestamp_ms": 1656115049570,
+      "content": "Hey how are you"
+    }
+  ],
+  "title": "__cyclone",
+  "is_still_participant": true,
+  "thread_path": "message_requests/__cyclone_864620844940750",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

@@ -1,0 +1,24 @@
+{
+  "participants": [
+    {
+      "name": "Trident Le"
+    },
+    {
+      "name": "Nat"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Trident Le",
+      "timestamp_ms": 1544059476605,
+      "content": "Sup Nate"
+    }
+  ],
+  "title": "Trident Le",
+  "is_still_participant": true,
+  "thread_path": "message_requests/tridentle_542021807200657",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

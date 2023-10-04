@@ -1,0 +1,24 @@
+{
+  "participants": [
+    {
+      "name": "Jack Vorhies"
+    },
+    {
+      "name": "Nat"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Jack Vorhies",
+      "timestamp_ms": 1657059221880,
+      "content": "Hi! How are you? You have a great profile!"
+    }
+  ],
+  "title": "Jack Vorhies",
+  "is_still_participant": true,
+  "thread_path": "message_requests/jackvorhies_872647650804736",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

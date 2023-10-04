@@ -1,0 +1,29 @@
+{
+  "participants": [
+    {
+      "name": "Abdullah Akakh\u00c3\u00a2\u00c3\u00ac\u00c5\u0082"
+    },
+    {
+      "name": "Nat"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Abdullah Akakh\u00c3\u00a2\u00c3\u00ac\u00c5\u0082",
+      "timestamp_ms": 1639514088190,
+      "content": "\u00f0\u009f\u0094\u00a5"
+    },
+    {
+      "sender_name": "Abdullah Akakh\u00c3\u00a2\u00c3\u00ac\u00c5\u0082",
+      "timestamp_ms": 1639497082799,
+      "content": "\u00f0\u009f\u0098\u008d"
+    }
+  ],
+  "title": "Abdullah Akakh\u00c3\u00a2\u00c3\u00ac\u00c5\u0082",
+  "is_still_participant": true,
+  "thread_path": "message_requests/abdullahakakhail_732026141533555",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

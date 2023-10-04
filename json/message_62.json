@@ -1,0 +1,29 @@
+{
+  "participants": [
+    {
+      "name": "Mendi Sharabi"
+    },
+    {
+      "name": "Nat"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Mendi Sharabi",
+      "timestamp_ms": 1643746393470,
+      "content": "You want money?"
+    },
+    {
+      "sender_name": "Mendi Sharabi",
+      "timestamp_ms": 1643746385963,
+      "content": "Hey what\u00e2\u0080\u0099s up"
+    }
+  ],
+  "title": "Mendi Sharabi",
+  "is_still_participant": true,
+  "thread_path": "message_requests/mendisharabi_764807571588745",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

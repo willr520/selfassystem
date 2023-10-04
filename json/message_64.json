@@ -1,0 +1,24 @@
+{
+  "participants": [
+    {
+      "name": "Miguel Angel Torrellas Carrasco"
+    },
+    {
+      "name": "Nat"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Miguel Angel Torrellas Carrasco",
+      "timestamp_ms": 1660732465647,
+      "content": "Hi"
+    }
+  ],
+  "title": "Miguel Angel Torrellas Carrasco",
+  "is_still_participant": true,
+  "thread_path": "message_requests/miguelangeltorrellascarrasco_903987594337408",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

@@ -1,0 +1,24 @@
+{
+  "participants": [
+    {
+      "name": "Eduarditho507"
+    },
+    {
+      "name": "Nat"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Eduarditho507",
+      "timestamp_ms": 1660701569575,
+      "content": "Hola"
+    }
+  ],
+  "title": "Eduarditho507",
+  "is_still_participant": true,
+  "thread_path": "message_requests/eduarditho507_903736981029136",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

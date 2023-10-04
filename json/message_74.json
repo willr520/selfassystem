@@ -1,0 +1,29 @@
+{
+  "participants": [
+    {
+      "name": "Omer Oron"
+    },
+    {
+      "name": "Nat"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Omer Oron",
+      "timestamp_ms": 1654465951667,
+      "content": "\u00f0\u009f\u0098\u008d"
+    },
+    {
+      "sender_name": "Omer Oron",
+      "timestamp_ms": 1651732596207,
+      "content": "\u00f0\u009f\u0094\u00a5"
+    }
+  ],
+  "title": "Omer Oron",
+  "is_still_participant": true,
+  "thread_path": "message_requests/omeroron_828006375268864",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

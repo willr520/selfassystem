@@ -1,0 +1,34 @@
+{
+  "participants": [
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "Nat"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1681775366332,
+      "content": "Instagram User sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/_u/vintyle_official",
+        "profile_share_username": "vintyle_official",
+        "profile_share_name": "VINTYLE BRAND"
+      }
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1681775365949,
+      "content": "Hey there! We love your profile so much and we want you to try our products for free.\n\nJust message us at @vintyle_official and we'll send you some free samples!\n\nDon't miss out - those spots are limited.\u00e2\u009a\u00a1\u00ef\u00b8\u008f"
+    }
+  ],
+  "title": "Instagram User",
+  "is_still_participant": true,
+  "thread_path": "message_requests/instagramuser_1085791849490314",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

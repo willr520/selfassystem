@@ -1,0 +1,24 @@
+{
+  "participants": [
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "Nat"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1650345220201,
+      "content": "Hi do you want $500 daily to help yourself financially?"
+    }
+  ],
+  "title": "Instagram User",
+  "is_still_participant": true,
+  "thread_path": "message_requests/instagramuser_816750456394456",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

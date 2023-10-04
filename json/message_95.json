@@ -1,0 +1,24 @@
+{
+  "participants": [
+    {
+      "name": "Zach"
+    },
+    {
+      "name": "Nat"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Zach",
+      "timestamp_ms": 1644552083309,
+      "content": "Hi"
+    }
+  ],
+  "title": "Zach",
+  "is_still_participant": true,
+  "thread_path": "message_requests/zach_771037227632446",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

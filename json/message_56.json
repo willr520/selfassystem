@@ -1,0 +1,24 @@
+{
+  "participants": [
+    {
+      "name": "Lmno is the best part of the alphabet"
+    },
+    {
+      "name": "Nat"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Lmno is the best part of the alphabet",
+      "timestamp_ms": 1675710974195,
+      "content": "Hey"
+    }
+  ],
+  "title": "Lmno is the best part of the alphabet",
+  "is_still_participant": true,
+  "thread_path": "message_requests/lmnoisthebestpartofthealphabet_1040135357389297",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

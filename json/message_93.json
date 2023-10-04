@@ -1,0 +1,24 @@
+{
+  "participants": [
+    {
+      "name": "Viajero virtual"
+    },
+    {
+      "name": "Nat"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Viajero virtual",
+      "timestamp_ms": 1687531590478,
+      "content": "\u00f0\u009f\u0098\u008d"
+    }
+  ],
+  "title": "Viajero virtual",
+  "is_still_participant": true,
+  "thread_path": "message_requests/viajerovirtual_1126940708708761",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

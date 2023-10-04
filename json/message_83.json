@@ -1,0 +1,24 @@
+{
+  "participants": [
+    {
+      "name": "Sebastian Collett"
+    },
+    {
+      "name": "Nat"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sebastian Collett",
+      "timestamp_ms": 1640118141614,
+      "content": "hey"
+    }
+  ],
+  "title": "Sebastian Collett",
+  "is_still_participant": true,
+  "thread_path": "message_requests/sebastiancollett_275124877824110",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

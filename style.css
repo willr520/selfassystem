@@ -1,0 +1,72 @@
+@font-face {
+    font-family: quarantype;
+    src: url(quarantype.otf);
+}
+ @font-face {
+    font-family: nightingale;
+    src: url(nightingale.ttf);
+ }
+#title {
+    font-family: kinkie;
+    color:white;
+    font-size: 50px;
+}
+
+body {
+    background-color:black;
+}
+
+ul {
+    font-size: 50px;
+    list-style: none;
+    color:white;
+    font-family: quarantype;
+    margin-right:15%;
+}
+
+li:before { 
+    content: '☆';
+    color:red;
+}
+
+#first-timestamp {
+    color:white;
+    font-family:nightingale;
+    display:inline-block;
+ 
+
+}
+
+#last-timestamp {
+    color:white;
+    font-family:nightingale;
+    
+  
+
+}
+
+canvas {
+    position: absolute;
+	top: 0;
+	left: 0;
+	z-index: -1;
+
+}
+
+#canvas-wrapper {
+    width:100%
+    
+}
+
+#nathan {
+    width:auto;
+    height:150px;
+    position:fixed;
+    top:0;
+    right:0;
+    filter: blur(1px);
+}
+
+#nathan:hover {
+    cursor:pointer;
+}

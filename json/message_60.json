@@ -1,0 +1,24 @@
+{
+  "participants": [
+    {
+      "name": "Mark Christen"
+    },
+    {
+      "name": "Nat"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Mark Christen",
+      "timestamp_ms": 1659261165607,
+      "content": "Heyy"
+    }
+  ],
+  "title": "Mark Christen",
+  "is_still_participant": true,
+  "thread_path": "message_requests/markchristen_891320975604070",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

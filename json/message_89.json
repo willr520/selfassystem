@@ -1,0 +1,29 @@
+{
+  "participants": [
+    {
+      "name": "Trevor Durham"
+    },
+    {
+      "name": "Nat"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Trevor Durham",
+      "timestamp_ms": 1673903319864,
+      "content": "hey n"
+    },
+    {
+      "sender_name": "Trevor Durham",
+      "timestamp_ms": 1671295137941,
+      "content": "hi"
+    }
+  ],
+  "title": "Trevor Durham",
+  "is_still_participant": true,
+  "thread_path": "message_requests/trevordurham_1001674884568678",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

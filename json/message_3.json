@@ -1,0 +1,34 @@
+{
+  "participants": [
+    {
+      "name": "Ander Bonelli"
+    },
+    {
+      "name": "Nat"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Ander Bonelli",
+      "timestamp_ms": 1658272555059,
+      "content": "Ur so fucking pretty"
+    },
+    {
+      "sender_name": "Ander Bonelli",
+      "timestamp_ms": 1658272547538,
+      "content": "Saw ur profile on grinder"
+    },
+    {
+      "sender_name": "Ander Bonelli",
+      "timestamp_ms": 1658272541178,
+      "content": "Hey"
+    }
+  ],
+  "title": "Ander Bonelli",
+  "is_still_participant": true,
+  "thread_path": "message_requests/anderbonelli_883247586411409",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

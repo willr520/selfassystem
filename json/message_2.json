@@ -1,0 +1,78 @@
+{
+  "participants": [
+    {
+      "name": "agnes"
+    },
+    {
+      "name": "Nat"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Nat",
+      "timestamp_ms": 1655181091074,
+      "content": "It\u00e2\u0080\u0099s 5714899384!!"
+    },
+    {
+      "sender_name": "agnes",
+      "timestamp_ms": 1655162105504,
+      "content": "i just realized i don\u00e2\u0080\u0099t have it!!!"
+    },
+    {
+      "sender_name": "agnes",
+      "timestamp_ms": 1655162098577,
+      "content": "Nathan what\u00e2\u0080\u0099s your number"
+    },
+    {
+      "sender_name": "agnes",
+      "timestamp_ms": 1652562257184,
+      "content": "but also glad you don\u00e2\u0080\u0099t feel bad today :)  it was fun seeing you guys too! and yes i\u00e2\u0080\u0099m super down to hang with you and alex whenever"
+    },
+    {
+      "sender_name": "agnes",
+      "timestamp_ms": 1652562183423,
+      "content": "ugh fuck that\u00e2\u0080\u0099s so scary and im sorry that happened!"
+    },
+    {
+      "sender_name": "Nat",
+      "timestamp_ms": 1652561201706,
+      "content": "But it was fun to see u last night! We should def hang out more"
+    },
+    {
+      "sender_name": "Nat",
+      "timestamp_ms": 1652561186453,
+      "content": "I do remember that like a lot of ppl were really out of it, idk what went on but I feel generally okay today which is good"
+    },
+    {
+      "sender_name": "Nat",
+      "timestamp_ms": 1652561113519,
+      "content": "I literally do not remember anything halfway through when I was there it was so strange \u00f0\u009f\u0098\u00ad and like I was stumbling around and shit towards the end lmfaoo"
+    },
+    {
+      "sender_name": "agnes",
+      "timestamp_ms": 1652560124660,
+      "content": "how did you feel ? and like around when?"
+    },
+    {
+      "sender_name": "agnes",
+      "timestamp_ms": 1652560109170,
+      "content": "i have no idea\u00e2\u0080\u00a6 wait  actually because one of the guys i was with got super sick too but idk if he did other things that night on his own accord"
+    },
+    {
+      "sender_name": "agnes",
+      "timestamp_ms": 1652560066358,
+      "content": "girl alex just told me!!!"
+    },
+    {
+      "sender_name": "Nat",
+      "timestamp_ms": 1652559179936,
+      "content": "omg was there stuff going around at the thing last night? I literally feel like I got drugged or something"
+    }
+  ],
+  "title": "agnes",
+  "is_still_participant": true,
+  "thread_path": "inbox/agnes_834920624577439",
+  "magic_words": [
+    
+  ]
+}

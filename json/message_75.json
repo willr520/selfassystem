@@ -1,0 +1,24 @@
+{
+  "participants": [
+    {
+      "name": "overanddoneagain"
+    },
+    {
+      "name": "Nat"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "overanddoneagain",
+      "timestamp_ms": 1660151354130,
+      "content": "You are absolutely gorgeous"
+    }
+  ],
+  "title": "overanddoneagain",
+  "is_still_participant": true,
+  "thread_path": "message_requests/overanddoneagain_898915734844594",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

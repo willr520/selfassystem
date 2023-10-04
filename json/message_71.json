@@ -1,0 +1,24 @@
+{
+  "participants": [
+    {
+      "name": "Nick Sterling"
+    },
+    {
+      "name": "Nat"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Nick Sterling",
+      "timestamp_ms": 1681546266094,
+      "content": "Hi \u00f0\u009f\u0091\u008b"
+    }
+  ],
+  "title": "Nick Sterling",
+  "is_still_participant": true,
+  "thread_path": "message_requests/nicksterling_1084792152924194",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

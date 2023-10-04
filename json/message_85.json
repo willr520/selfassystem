@@ -1,0 +1,24 @@
+{
+  "participants": [
+    {
+      "name": "Shai Glizzy"
+    },
+    {
+      "name": "Nat"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Shai Glizzy",
+      "timestamp_ms": 1661445313326,
+      "content": "Wassup"
+    }
+  ],
+  "title": "Shai Glizzy",
+  "is_still_participant": true,
+  "thread_path": "message_requests/shaiglizzy_910127397056761",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

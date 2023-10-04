@@ -1,0 +1,24 @@
+{
+  "participants": [
+    {
+      "name": "Jessi"
+    },
+    {
+      "name": "Nat"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Jessi",
+      "timestamp_ms": 1683729891670,
+      "content": "Hello"
+    }
+  ],
+  "title": "Jessi",
+  "is_still_participant": true,
+  "thread_path": "message_requests/jessi_1099842658085233",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

@@ -1,0 +1,24 @@
+{
+  "participants": [
+    {
+      "name": "Brandon Cash"
+    },
+    {
+      "name": "Nat"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Brandon Cash",
+      "timestamp_ms": 1670793212316,
+      "content": "Hi"
+    }
+  ],
+  "title": "Brandon Cash",
+  "is_still_participant": true,
+  "thread_path": "message_requests/brandoncash_996289125107254",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

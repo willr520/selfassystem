@@ -1,0 +1,29 @@
+{
+  "participants": [
+    {
+      "name": "PM"
+    },
+    {
+      "name": "Nat"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "PM",
+      "timestamp_ms": 1665527895615,
+      "content": "Got your account from Grindr \u00f0\u009f\u00a4\u00ad"
+    },
+    {
+      "sender_name": "PM",
+      "timestamp_ms": 1665527882567,
+      "content": "Heyyyy"
+    }
+  ],
+  "title": "PM",
+  "is_still_participant": true,
+  "thread_path": "message_requests/pm_947616959974471",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

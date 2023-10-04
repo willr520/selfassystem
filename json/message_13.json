@@ -1,0 +1,29 @@
+{
+  "participants": [
+    {
+      "name": "decadAnse"
+    },
+    {
+      "name": "Nat"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "decadAnse",
+      "timestamp_ms": 1663369472707,
+      "content": "Nyc?"
+    },
+    {
+      "sender_name": "decadAnse",
+      "timestamp_ms": 1663369469183,
+      "content": "Heyyy"
+    }
+  ],
+  "title": "decadAnse",
+  "is_still_participant": true,
+  "thread_path": "message_requests/decadanse_926588582077309",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

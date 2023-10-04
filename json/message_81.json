@@ -1,0 +1,24 @@
+{
+  "participants": [
+    {
+      "name": "Rossa EK"
+    },
+    {
+      "name": "Nat"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Rossa EK",
+      "timestamp_ms": 1690860408792,
+      "content": "U from nyc?"
+    }
+  ],
+  "title": "Rossa EK",
+  "is_still_participant": true,
+  "thread_path": "message_requests/rossaek_1149700206432811",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

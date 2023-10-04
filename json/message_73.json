@@ -1,0 +1,24 @@
+{
+  "participants": [
+    {
+      "name": "okii"
+    },
+    {
+      "name": "Nat"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "okii",
+      "timestamp_ms": 1644768820590,
+      "content": "hey!!"
+    }
+  ],
+  "title": "okii",
+  "is_still_participant": true,
+  "thread_path": "message_requests/okii_772642817471887",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

@@ -1,0 +1,33 @@
+{
+  "participants": [
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "Nat"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1547235425628,
+      "content": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f"
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1547235421131,
+      "content": "Instagram User sent an attachment.",
+      "share": {
+        "link": "http://damhedonedidit19960325.com/erefdsone-think-of-aedsme-for-boob-edtwerk",
+        "share_text": "from theCHIVE"
+      }
+    }
+  ],
+  "title": "Instagram User",
+  "is_still_participant": true,
+  "thread_path": "message_requests/instagramuser_549806326422205",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

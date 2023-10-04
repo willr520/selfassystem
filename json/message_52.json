@@ -1,0 +1,24 @@
+{
+  "participants": [
+    {
+      "name": "Jordan Fox"
+    },
+    {
+      "name": "Nat"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Jordan Fox",
+      "timestamp_ms": 1640932106234,
+      "content": "Ayo what\u00e2\u0080\u0099s good bro"
+    }
+  ],
+  "title": "Jordan Fox",
+  "is_still_participant": true,
+  "thread_path": "message_requests/jordanfox_743240757078760",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

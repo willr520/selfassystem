@@ -1,0 +1,24 @@
+{
+  "participants": [
+    {
+      "name": "noah/nova \u00e1\u008a\u0096\u00e1\u0088\u0085"
+    },
+    {
+      "name": "Nat"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "noah/nova \u00e1\u008a\u0096\u00e1\u0088\u0085",
+      "timestamp_ms": 1640117768773,
+      "content": "Hey \u00f0\u009f\u0091\u008b\u00f0\u009f\u008f\u00bc"
+    }
+  ],
+  "title": "noah/nova \u00e1\u008a\u0096\u00e1\u0088\u0085",
+  "is_still_participant": true,
+  "thread_path": "message_requests/noahnova_736981181038051",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

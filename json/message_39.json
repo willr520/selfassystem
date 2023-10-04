@@ -1,0 +1,29 @@
+{
+  "participants": [
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "Nat"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1659972834058,
+      "content": "H"
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1659107420733,
+      "content": "Hi"
+    }
+  ],
+  "title": "Instagram User",
+  "is_still_participant": true,
+  "thread_path": "message_requests/instagramuser_890100145726153",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

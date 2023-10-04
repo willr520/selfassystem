@@ -1,0 +1,33 @@
+{
+  "participants": [
+    {
+      "name": "Linh Br\u00c3\u00a4utigam"
+    },
+    {
+      "name": "Nat"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Linh Br\u00c3\u00a4utigam",
+      "timestamp_ms": 1656541277977,
+      "content": "@brandencondy is the king of IG Growth, if you want to grow your Instagram DM him \u00e2\u0080\u009cLAUNCH\u00e2\u0080\u009d!"
+    },
+    {
+      "sender_name": "Linh Br\u00c3\u00a4utigam",
+      "timestamp_ms": 1656541277977,
+      "share": {
+        "link": "https://www.instagram.com/_u/brandencondy",
+        "profile_share_username": "brandencondy",
+        "profile_share_name": "Branden Condy"
+      }
+    }
+  ],
+  "title": "Linh Br\u00c3\u00a4utigam",
+  "is_still_participant": true,
+  "thread_path": "message_requests/linhbrautigam_1053232098910652",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

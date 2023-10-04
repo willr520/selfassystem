@@ -1,0 +1,24 @@
+{
+  "participants": [
+    {
+      "name": "Elprofe_David"
+    },
+    {
+      "name": "Nat"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Elprofe_David",
+      "timestamp_ms": 1661233888043,
+      "content": "Hi"
+    }
+  ],
+  "title": "Elprofe_David",
+  "is_still_participant": true,
+  "thread_path": "message_requests/elprofe_david_908275400575294",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

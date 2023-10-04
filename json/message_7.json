@@ -1,0 +1,24 @@
+{
+  "participants": [
+    {
+      "name": "Brian Butler"
+    },
+    {
+      "name": "Nat"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Brian Butler",
+      "timestamp_ms": 1657716082055,
+      "content": "Hey! How are you?"
+    }
+  ],
+  "title": "Brian Butler",
+  "is_still_participant": true,
+  "thread_path": "message_requests/brianbutler_878418743560960",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

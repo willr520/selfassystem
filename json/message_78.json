@@ -1,0 +1,44 @@
+{
+  "participants": [
+    {
+      "name": "Rafael Nava"
+    },
+    {
+      "name": "Nat"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Rafael Nava",
+      "timestamp_ms": 1654466159128,
+      "content": "\u00f0\u009f\u0094\u00a5"
+    },
+    {
+      "sender_name": "Rafael Nava",
+      "timestamp_ms": 1653171274982,
+      "content": "\u00f0\u009f\u0094\u00a5"
+    },
+    {
+      "sender_name": "Rafael Nava",
+      "timestamp_ms": 1651756586297,
+      "content": "\u00f0\u009f\u0094\u00a5"
+    },
+    {
+      "sender_name": "Rafael Nava",
+      "timestamp_ms": 1644612464828,
+      "content": "\u00f0\u009f\u0094\u00a5"
+    },
+    {
+      "sender_name": "Rafael Nava",
+      "timestamp_ms": 1642836818614,
+      "content": "\u00f0\u009f\u0094\u00a5"
+    }
+  ],
+  "title": "Rafael Nava",
+  "is_still_participant": true,
+  "thread_path": "message_requests/rafaelnava_757901492279353",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

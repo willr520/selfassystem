@@ -1,0 +1,24 @@
+{
+  "participants": [
+    {
+      "name": "Yahyasamii"
+    },
+    {
+      "name": "Nat"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Yahyasamii",
+      "timestamp_ms": 1661186896638,
+      "content": "Hola"
+    }
+  ],
+  "title": "Yahyasamii",
+  "is_still_participant": true,
+  "thread_path": "message_requests/yahyasamii_907898683946299",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

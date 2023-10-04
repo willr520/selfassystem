@@ -1,0 +1,24 @@
+{
+  "participants": [
+    {
+      "name": "thestrokesinlondon"
+    },
+    {
+      "name": "Nat"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "thestrokesinlondon",
+      "timestamp_ms": 1661238865388,
+      "content": "Hi"
+    }
+  ],
+  "title": "thestrokesinlondon",
+  "is_still_participant": true,
+  "thread_path": "message_requests/thestrokesinlondon_908309337238567",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

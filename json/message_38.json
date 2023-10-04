@@ -1,0 +1,33 @@
+{
+  "participants": [
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "Nat"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1652039896037,
+      "content": "To make $1,000+/mo as an Ambassador for the next best social media platform, DM our official page above @linkme \u00e2\u0080\u009cYES\u00e2\u0080\u009d \u00f0\u009f\u00a4\u0091\u00f0\u009f\u0091\u0086\n\n(Once you DM us \u00e2\u0080\u009cYES\u00e2\u0080\u009d to  @linkme we\u00e2\u0080\u0099ll confirm with you this message was from us! We used a back up page to not get IG limited from our official account\u00f0\u009f\u00a4\u00a9)"
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1652039896037,
+      "share": {
+        "link": "https://www.instagram.com/_u/linkme",
+        "profile_share_username": "linkme",
+        "profile_share_name": "Linkme"
+      }
+    }
+  ],
+  "title": "Instagram User",
+  "is_still_participant": true,
+  "thread_path": "message_requests/instagramuser_830604995009002",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

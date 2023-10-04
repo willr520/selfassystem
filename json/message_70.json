@@ -1,0 +1,24 @@
+{
+  "participants": [
+    {
+      "name": "nedb202"
+    },
+    {
+      "name": "Nat"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "nedb202",
+      "timestamp_ms": 1680300275521,
+      "content": "Hey"
+    }
+  ],
+  "title": "nedb202",
+  "is_still_participant": true,
+  "thread_path": "message_requests/nedb202_1075639103838922",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

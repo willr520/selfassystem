@@ -1,0 +1,24 @@
+{
+  "participants": [
+    {
+      "name": "Luis \u00c3\u0081ngel  Salinas Padilla"
+    },
+    {
+      "name": "Nat"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Luis \u00c3\u0081ngel  Salinas Padilla",
+      "timestamp_ms": 1639537937283,
+      "content": "Hi"
+    }
+  ],
+  "title": "Luis \u00c3\u0081ngel  Salinas Padilla",
+  "is_still_participant": true,
+  "thread_path": "message_requests/luisangelsalinaspadilla_732328601503309",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

@@ -1,0 +1,24 @@
+{
+  "participants": [
+    {
+      "name": "Terry cathler"
+    },
+    {
+      "name": "Nat"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Terry cathler",
+      "timestamp_ms": 1673723330019,
+      "content": "Hi"
+    }
+  ],
+  "title": "Terry cathler",
+  "is_still_participant": true,
+  "thread_path": "message_requests/terrycathler_1023547875714712",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

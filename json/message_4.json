@@ -1,0 +1,24 @@
+{
+  "participants": [
+    {
+      "name": "Austin Wolf"
+    },
+    {
+      "name": "Nat"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Austin Wolf",
+      "timestamp_ms": 1647053018168,
+      "content": "Yea sure. I\u00e2\u0080\u0099m real"
+    }
+  ],
+  "title": "Austin Wolf",
+  "is_still_participant": true,
+  "thread_path": "message_requests/austinwolf_790540415682127",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

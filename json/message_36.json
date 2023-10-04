@@ -1,0 +1,29 @@
+{
+  "participants": [
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "Nat"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1645191206289,
+      "content": "I added you from tinder"
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1645191200845,
+      "content": "Your so cute"
+    }
+  ],
+  "title": "Instagram User",
+  "is_still_participant": true,
+  "thread_path": "message_requests/instagramuser_775859627150206",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}
