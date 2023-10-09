@@ -11,7 +11,8 @@
     {
       "sender_name": "David",
       "timestamp_ms": 1644405557281,
-      "content": "Hi. How are you ?"
+      "content": "Hi. How are you ?",
+      "image_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Michelangelo%27s_David_-_right_view_2.jpg/220px-Michelangelo%27s_David_-_right_view_2.jpg"
     }
   ],
   "title": "David",

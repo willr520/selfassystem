@@ -19,6 +19,26 @@ function randomJson() {
             const li = document.createElement('li');
             li.textContent = `${message.sender_name}: ${message.content}`;
             ul.appendChild(li);
+
+        
+            li.addEventListener('mouseover', () => {
+                const backgroundImage = document.createElement('div');
+                backgroundImage.style.position = 'fixed';
+                backgroundImage.style.top = '0';
+                backgroundImage.style.left = '0';
+                backgroundImage.style.width = '100%';
+                backgroundImage.style.height = '100%';
+                backgroundImage.style.backgroundImage = `url(${message.image_link})`;
+                backgroundImage.style.filter = 'blur(15px)'; // Adjust the value (5px) to control the amount of blur
+                backgroundImage.style.zIndex = '-1'; // Place it behind other elements
+                document.body.appendChild(backgroundImage);
+            });
+            
+        
+            li.addEventListener('mouseout', () => {
+                backgroundImage.body.style.backgroundColor = 'black';
+                
+            });
         });
 
         const firstMessageTimestamp = messages[0].timestamp_ms;
@@ -34,7 +54,11 @@ function randomJson() {
         image.addEventListener('click', function() {
             location.reload(); // Reload the page when the image is clicked
             document.body.style.backgroundColor = "red";
-        });
+            image.style.display = "none";
+            firstTimestampElement.style.display = "none";
+            lastTimestampElement.style.display = "none";
+            document.ul.style.fontFamily = "arial";
+        },);
 
         
     })
@@ -51,7 +75,7 @@ randomJson();
 
 
 function setup() {
-    let c = createCanvas(1000, 1000);
+    let c = createCanvas(2000, 1500);
     c.parent('canvas-wrapper');
 }
 
@@ -63,6 +87,7 @@ function draw() {
 
     translate(width/2, height/2);
     
+   
     
     for (x = 0; x<80; x++){
       for (y = 0 ;y<numMessages; y++){
@@ -71,7 +96,7 @@ function draw() {
       stroke(255, 0, 0 );
       noFill();
       rotate(30);
-      ellipse(numMessages, numMessages, 10 * x, 10 * y);
+      line(numMessages, numMessages, 10 * x, 10 * y);
       }
     }
     

@@ -6,6 +6,8 @@
     font-family: nightingale;
     src: url(nightingale.ttf);
  }
+
+
 #title {
     font-family: kinkie;
     color:white;
@@ -21,7 +23,7 @@ ul {
     list-style: none;
     color:white;
     font-family: quarantype;
-    margin-right:15%;
+    margin-right: 0 auto;
 }
 
 li:before { 
@@ -33,6 +35,7 @@ li:before {
     color:white;
     font-family:nightingale;
     display:inline-block;
+    font-size: 25px;
  
 
 }
@@ -40,6 +43,7 @@ li:before {
 #last-timestamp {
     color:white;
     font-family:nightingale;
+    font-size: 25px;
     
   
 
@@ -54,13 +58,14 @@ canvas {
 }
 
 #canvas-wrapper {
-    width:100%
+    width:100%;
+    margin-bottom: 500px;
     
 }
 
 #nathan {
     width:auto;
-    height:150px;
+    height:100px;
     position:fixed;
     top:0;
     right:0;
@@ -70,3 +75,4 @@ canvas {
 #nathan:hover {
     cursor:pointer;
 }
+
