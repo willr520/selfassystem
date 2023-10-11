@@ -1,0 +1,15 @@
+@font-face {
+    font-family: nightingale;
+    src: url(nightingale.ttf);
+ }
+
+body {
+    background-color: black;
+    color: white;
+    font-family: nightingale;
+}
+
+#link {
+    color:red
+}
+
